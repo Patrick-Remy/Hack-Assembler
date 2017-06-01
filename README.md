@@ -1,6 +1,6 @@
 # Nand2Tetris Assembler
 
-[https://travis-ci.org/Patrick-Remy/Hack-Assembler.svg?branch=master]
+![build status](https://travis-ci.org/Patrick-Remy/Hack-Assembler.svg?branch=master) ![code style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)
 
 ## Installation
 `npm install`
