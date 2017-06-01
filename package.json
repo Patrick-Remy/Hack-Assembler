@@ -1,0 +1,27 @@
+{
+  "name": "nand2tetris-assembler",
+  "version": "0.0.1",
+  "author": "Patrick Remy",
+  "description": "Assemblies scripts to 'Hack' for the Nand2Tetris project.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "isolated": "^0.3.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
