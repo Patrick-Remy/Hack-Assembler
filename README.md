@@ -1,5 +1,7 @@
 # Nand2Tetris Assembler
 
+[https://travis-ci.org/Patrick-Remy/Hack-Assembler.svg?branch=master]
+
 ## Installation
 `npm install`
 
